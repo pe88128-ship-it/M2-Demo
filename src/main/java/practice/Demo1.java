@@ -6,6 +6,7 @@ public class Demo1 {
 		
 		System.out.println("Hello Engineers!");
 		System.out.println("Automestion engineers!");
+		System.out.println("practice git conflict from automestionTestEngineer workspace");
 
 	}
 
